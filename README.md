@@ -37,5 +37,8 @@ python3 main.py
 - run and test the chatbot: https://share.cleanshot.com/b3HhfB4Y
 - deploy the chatbot to a server using Github Actions
 - suggest improvements and next steps for the project
+  - what would make this chatbot better for the user?
+  - What other LangChain features could be used to improve the quality of responses, performance etc?
+  - code-level improvements / refactoring that could be done in the future to improve maintainability
 
 Note: you can use GPT-3.5-turbo or GPT-4. We will cover any reasonable costs for the API.
